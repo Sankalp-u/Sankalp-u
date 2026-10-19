@@ -34,6 +34,7 @@ Looking at: semiconductor, core electrical and embedded roles.
 | 📡 [**rolling-shutter-occ**](https://github.com/Sankalp-u/rolling-shutter-occ) | **Project Nyquist.** An ESP32 blinks an LED with Manchester-coded data. A rolling-shutter camera films it, and a Python decoder recovers the message from the light and dark stripes. Includes a live Flask dashboard. |
 | ⛏️ [**mine-safety-monitoring-system**](https://github.com/Sankalp-u/mine-safety-monitoring-system) | ESP32 sensor nodes (temperature, humidity, CO, methane, roof displacement) stream to ThingSpeak. A main controller shows status on an OLED with GPS and raises buzzer and LED alarms. |
 | 🎛️ [**programmable-gain-amplifier-esp32**](https://github.com/Sankalp-u/programmable-gain-amplifier-esp32) | LM358 op-amp programmable gain amplifier. An ESP32 switches the gain network over serial. Includes simulation, schematic and hardware demo. |
+| 🔢 [**hdlbits-verilog**](https://github.com/Sankalp-u/hdlbits-verilog) | **32 HDLBits problems solved** · current rank **45,198**. My Verilog solutions, grouped by topic. |
 
 ## 📫 Connect
 
