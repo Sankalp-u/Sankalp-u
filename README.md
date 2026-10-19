@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d5c,100:00b4d8&height=190&section=header&text=Sankalp%20Singh%20Bais&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=EEE%20%7C%20VIT%20Vellore&descAlignY=60&descSize=18" alt="Sankalp Singh Bais - EEE, VIT Vellore" />
 
 <a href="https://github.com/Sankalp-u">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00B4D8&center=true&vCenter=true&width=640&lines=Electrical+%26+Electronics+Engineering+undergrad;I+like+making+software+survive+contact+with+hardware;ESP32+%7C+Embedded+Systems+%7C+Signal+Processing+%7C+HDL" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00B4D8&center=true&vCenter=true&width=1000&height=70&lines=Electrical+%26+Electronics+Engineering+undergrad;I+like+making+software+survive+contact+with+hardware;ESP32+%7C+Embedded+Systems+%7C+Signal+Processing+%7C+HDL" alt="Typing animation" />
 </a>
 
 </div>
